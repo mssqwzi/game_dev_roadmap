@@ -1,4 +1,4 @@
-# Подробный роадмап для Game Developer :video_game:
+# Роадмап для Game Developer :video_game:
 
 ## Начальный этап:
 
